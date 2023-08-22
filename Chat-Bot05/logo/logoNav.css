@@ -1,0 +1,17 @@
+.logo{
+    width: 100px;
+    height: 100px;
+    border-radius: 25px;
+    transition: all 0.3s;
+}
+
+.logo:hover {
+    transform: scale(1.2);
+}
+
+
+.logoChat{
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+}
